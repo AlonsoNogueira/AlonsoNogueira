@@ -1,71 +1,56 @@
-# 🎮 PORTFÓLIO — DAVID ALONSO NOGUEIRA SILVA
-
-<table>
+# Hi there, I'm Alonso Nogueira! 👋
+ 
+<table width="100%">
 <tr>
-<td valign="top">
-
-<div style="border: 1px solid #6b7280; padding: 16px; font-family: monospace; height: 100%;">
-
-**─────── CHARACTER SHEET UNLOCKED ───────**
-
----
-
-**CLASSE:** Back-end Developer
---
-**NÍVEL:** 2º Semestre — Dev. de Sistemas
---
-**STATUS:** 🟢 Disponível para novas quests
----
-</div>
-
+<td width="50%" valign="top">
+<table width="100%">
+<tr><th align="left" colspan="2"> SOBRE MIM</th></tr>
+<tr><td width="35%"><b>Classe</b></td><td> Back-end Developer</td></tr>
+<tr><td><b>Curso</b></td><td> Dev. de Sistemas</td></tr>
+<tr><td><b>Status</b></td><td> Disponível para novas quests</td></tr>
+</table>
 </td>
-<td valign="top">
-
-**🎒 MINHAS STACKS**
-
-| Tecnologia | Tipo |
-|---|---|
-| 🟩 Node.js | Runtime |
-| 🔷 TypeScript | Linguagem |
-| ☕ Java | Linguagem |
-| 🚂 Express | Framework |
-| ⚡ Fastify | Framework |
-| 🍃 Spring Boot | Framework |
-| 🐳 Docker | Ferramenta |
-
+<td width="50%" valign="top">
+<table width="100%">
+<tr><th align="left" colspan="2"> MINHAS STACKS</th></tr>
+<tr><td width="55%"> Node.js</td><td>Runtime</td></tr>
+<tr><td> TypeScript</td><td>Linguagem</td></tr>
+<tr><td> Java</td><td>Linguagem</td></tr>
+<tr><td> Express</td><td>Framework</td></tr>
+<tr><td> Fastify</td><td>Framework</td></tr>
+<tr><td> Spring Boot</td><td>Framework</td></tr>
+<tr><td> Docker</td><td>Ferramenta</td></tr>
+</table>
 </td>
 </tr>
 </table>
-
 > "Apaixonado por tecnologia e inovação, com foco total em Back-end."
-
+ 
 ---
 
+##  Meus projetos!
 
-
-## 🏆 QUESTS CONCLUÍDAS (Projetos)
-
-### 🗺️ Quest 01 — **Reda SAM**
-> Missão concluída no reino do desenvolvimento web.
+###  **Reda SAM** 
+> Plataforma de auxiolio para correção de redações estilo enem para escola Salamão Alves de Moura.
 🔗 [Acessar projeto →](https://redasam.vercel.app)
 
-### 🗺️ Quest 02 — **Achados e Perdidos - SAM**
-> Sistema para recuperar itens perdidos na masmorra escolar.
-🔗 [Acessar projeto →](https://apsam.vercel.app)
 
-### 🗺️ Quest 03 — **OrbyxAI**
-> Incursão no território da Inteligência Artificial.
-🔗 [Acessar projeto →](https://orbix-ai-front-4sa3.vercel.app/)
+###  **Achados e Perdidos - SAM**
+> Sistema para recuperar itens perdidos na escola Salomão Alves de Moura.
+ [Acessar projeto →](https://apsam.vercel.app)
+
+###  **OrbyxAI**
+> Chatbot de Inteligência Artificial.
+ [Acessar projeto →](https://orbix-ai-front-4sa3.vercel.app/)
 
 ---
 
-## 🛡️ GUILDAS & REDES (Social Links)
+## **Social Links**
 
-| Plataforma | Link |
-|---|---|
-| 🐙 GitHub | [github.com/alonsonogueira](https://github.com/alonsonogueira) |
-| 💼 LinkedIn | [linkedin.com/in/alonsonogueira](https://www.linkedin.com/in/alonsonogueira/) |
-| 📸 Instagram | [@alonsnogueira_](https://www.instagram.com/alonsnogueira_/) |
-| 🌐 Biolink Oficial | [alonszzx.vercel.app](https://alonszzx.vercel.app/) |
 
+|  GitHub | [github.com/alonsonogueira](https://github.com/alonsonogueira) |
+--
+| LinkedIn | [linkedin.com/in/alonsonogueira](https://www.linkedin.com/in/alonsonogueira/) |
+--
+|  Instagram | [@alonsnogueira_](https://www.instagram.com/alonsnogueira_/) |
 ---
