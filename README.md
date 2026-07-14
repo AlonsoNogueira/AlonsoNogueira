@@ -28,26 +28,6 @@
  
 ---
 
-##  Meus projetos!
-
-###  **Reda SAM** 
-> Plataforma de auxiolio para correção de redações estilo enem para escola Salamão Alves de Moura.
- [Acessar projeto →](https://redasam.vercel.app)
-
-
-###  **Achados e Perdidos - SAM**
-> Sistema para recuperar itens perdidos na escola Salomão Alves de Moura.
- [Acessar projeto →](https://apsam.vercel.app)
-
-###  **OrbyxAI**
-> Chatbot de Inteligência Artificial.
- [Acessar projeto →](https://orbix-ai-front-4sa3.vercel.app/)
-
-###  **StoquiFrota**
-> Plataforma de gestão de locação de veiculos para empresas locatoras.
- [Acessar projeto →](stoquifrota.site)
-
----
 
 ## **Social Links**
 
