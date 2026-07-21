@@ -16,8 +16,6 @@
 <tr><td width="55%"> Node.js</td><td>Runtime</td></tr>
 <tr><td> TypeScript</td><td>Linguagem</td></tr>
 <tr><td> Java</td><td>Linguagem</td></tr>
-<tr><td> Express</td><td>Framework</td></tr>
-<tr><td> Fastify</td><td>Framework</td></tr>
 <tr><td> Spring Boot</td><td>Framework</td></tr>
 <tr><td> Docker</td><td>Ferramenta</td></tr>
 </table>
