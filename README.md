@@ -17,7 +17,9 @@
 <tr><td> TypeScript</td><td>Linguagem</td></tr>
 <tr><td> Java</td><td>Linguagem</td></tr>
 <tr><td> Spring Boot</td><td>Framework</td></tr>
+<tr><td> Git</td><td>Ferramenta</td></tr>
 <tr><td> Docker</td><td>Ferramenta</td></tr>
+<tr><td> PostgresSQL</td><td>Database</td></tr>
 </table>
 </td>
 </tr>
